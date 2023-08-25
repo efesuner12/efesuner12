@@ -10,7 +10,7 @@
 
 <b>Connect with me:</b>
 <br>
-<img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" width="7%" height="10%"><a href="https://www.linkedin.com/in/efe-suner/"></a></img>
+<a src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" width="7%" height="10%" href="https://www.linkedin.com/in/efe-suner/"></a>
 
 <!--
 **efesuner12/efesuner12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
