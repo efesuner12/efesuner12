@@ -1,4 +1,15 @@
-### Hi there 👋
+### Hello there 👋
+
+<b>I am currently a final year Computer Science undergraduate at the University of Birmingham looking to start a career in Cyber Security</b>
+<br>
+<ul>
+  <li>🌱 I am interested in Cyber Security and IoT</li>
+  <li>⚡ Throughout my profile you will find codes regarding but not limited to networking, cryptography and automation</li>
+  <li>💬 Ask me about <b>Python, Java, SQL, Bash, PowerShell, Cryptography, Networking, Linux, Automation</b> </li>
+</ul>
+
+<b>Connect with me:</b>
+<img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg"><a href="https://www.linkedin.com/in/efe-suner/"></a></img>
 
 <!--
 **efesuner12/efesuner12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
