@@ -10,7 +10,7 @@
 
 <b>Connect with me:</b>
 <br>
-<a href="https://www.linkedin.com/in/efe-suner/">
+<a href="https://www.linkedin.com/in/efe-suner/" target="_blank">
   <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" width="7%" height="10%"></img>
 </a>
 
