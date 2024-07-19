@@ -1,11 +1,11 @@
 ### Hello there 👋
 
-<b>I am currently a final year Computer Science undergraduate at the University of Birmingham</b>
+<b>I am a Cloud and Security Engineer</b>
 <br>
 <ul>
   <li>🌱 I am interested in Cyber Security and IoT</li>
   <li>⚡ Throughout my profile you will find codes regarding but not limited to networking, cryptography and automation</li>
-  <li>💬 Ask me about <b>Python, Java, SQL, Bash, PowerShell</b> </li>
+  <li>💬 Ask me about <b>Python, C++, Java, SQL, Bash, PowerShell</b> </li>
 </ul>
 
 <b>Connect with me:</b>
